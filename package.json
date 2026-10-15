@@ -1,0 +1,13 @@
+{
+  "name": "geser-digital-epic",
+  "version": "2.0.0",
+  "private": true,
+  "description": "格斯尔·数智史诗——互动数字出版物原型（含轻量后端：阅读进度记忆与用户笔记）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0"
+  }
+}
